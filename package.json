@@ -1,6 +1,6 @@
 {
-  "name": "hexo-instagram",
-  "version": "0.0.3",
+  "name": "hexo-instagram-three",
+  "version": "0.0.3.1",
   "description": "Generate instagram photo page.",
   "dependencies": {
     "object-assign": "^2.0.0",
